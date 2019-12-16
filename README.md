@@ -23,7 +23,6 @@ npm run build
 ### Author
 
 Brad Traversy, Lem Adane
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
