@@ -1,4 +1,4 @@
-# PixaBay Image Finder
+# PixaBay Image Finder (with React-Redux Hooks)
 
 > React & Material UI app to find images utilizing the PixaBay API, Modified to use React-Redux Hooks, useSelecgtor & useDispatch.
 
