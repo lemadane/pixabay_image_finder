@@ -9,6 +9,7 @@ const API = {
 
 export const getImages = (input: { amount: number, searchText: string; }) => async (dispatch: Dispatch) => {
   try {
+    console.log(input.amount);
     const { amount, searchText } = input;
     if (amount && searchText) {
       const uri = `${API.URL}/?safesarech=true`
